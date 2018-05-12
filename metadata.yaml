@@ -1,0 +1,31 @@
+_repo: The-Reformed-Librarie-Keeper--1650-_15199
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dury, John
+    aliases:
+    - Durie, John
+    - Durey, John
+    birthdate: 1596
+    deathdate: 1680
+    gutenberg_agent_id: '5911'
+    url: http://www.gutenberg.org/2009/agents/5911
+description: Augustan Reprint Society, publication number 220
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2005-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15199'
+  lccn: '84621143'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Library science -- Early works to 1800'
+- !lcc 'Z'
+title: The Reformed Librarie-Keeper (1650)
+url: http://www.gutenberg.org/ebooks/15199
